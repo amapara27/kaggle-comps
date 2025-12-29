@@ -1,3 +1,3 @@
-# ML models
+# Kaggle Competitions
 
-All of the ML models that I have developed, along with the used datasets are in this repository.
+These are all the models I've submitted for kaggle competitions.
